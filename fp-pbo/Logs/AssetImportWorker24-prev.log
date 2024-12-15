@@ -1,0 +1,303 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.50f1 (c3db7f8bf9b1) revision 12835711'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 15711 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Programs\UnityHub\Unity Editor\2022.3.50f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker24
+-projectPath
+D:/Workspace/Game/Unity/GAIA-Sentinels/fp-pbo
+-logFile
+Logs/AssetImportWorker24.log
+-srvPort
+51616
+Successfully changed project path to: D:/Workspace/Game/Unity/GAIA-Sentinels/fp-pbo
+D:/Workspace/Game/Unity/GAIA-Sentinels/fp-pbo
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [42476]  Target information:
+
+Player connection [42476]  * "[IP] 192.168.47.1 [Port] 0 [Flags] 2 [Guid] 3591743069 [EditorId] 3591743069 [Version] 1048832 [Id] WindowsEditor(7,Faiz-Victus) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [42476]  * "[IP] 192.168.134.1 [Port] 0 [Flags] 2 [Guid] 3591743069 [EditorId] 3591743069 [Version] 1048832 [Id] WindowsEditor(7,Faiz-Victus) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [42476]  * "[IP] 192.168.176.1 [Port] 0 [Flags] 2 [Guid] 3591743069 [EditorId] 3591743069 [Version] 1048832 [Id] WindowsEditor(7,Faiz-Victus) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [42476]  * "[IP] 192.168.1.7 [Port] 0 [Flags] 2 [Guid] 3591743069 [EditorId] 3591743069 [Version] 1048832 [Id] WindowsEditor(7,Faiz-Victus) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [42476] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [42476] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Refreshing native plugins compatible for Editor in 8.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.50f1 (c3db7f8bf9b1)
+[Subsystems] Discovering subsystems at path D:/Programs/UnityHub/Unity Editor/2022.3.50f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Workspace/Game/Unity/GAIA-Sentinels/fp-pbo/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     5996 MB
+    Driver:   32.0.15.5613
+Initialize mono
+Mono path[0] = 'D:/Programs/UnityHub/Unity Editor/2022.3.50f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Programs/UnityHub/Unity Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Programs/UnityHub/Unity Editor/2022.3.50f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56208
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Programs/UnityHub/Unity Editor/2022.3.50f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Programs/UnityHub/Unity Editor/2022.3.50f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005078 seconds.
+- Loaded All Assemblies, in  0.405 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.343 seconds
+Domain Reload Profiling: 748ms
+	BeginReloadAssembly (127ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (58ms)
+	LoadAllAssembliesAndSetupDomain (170ms)
+		LoadAssemblies (127ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (167ms)
+			TypeCache.Refresh (166ms)
+				TypeCache.ScanAssembly (152ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (343ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (285ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (199ms)
+			ProcessInitializeOnLoadMethodAttributes (64ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.827 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.074 seconds
+Domain Reload Profiling: 1901ms
+	BeginReloadAssembly (187ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (539ms)
+		LoadAssemblies (424ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (226ms)
+			TypeCache.Refresh (198ms)
+				TypeCache.ScanAssembly (183ms)
+			ScanForSourceGeneratedMonoScriptInfo (19ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1075ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (888ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (65ms)
+			ProcessInitializeOnLoadAttributes (772ms)
+			ProcessInitializeOnLoadMethodAttributes (35ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 3.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3362 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (1.8 MB). Loaded Objects now: 3829.
+Memory consumption went from 217.6 MB to 215.8 MB.
+Total: 5.258600 ms (FindLiveObjects: 0.250700 ms CreateObjectMapping: 0.284700 ms MarkObjects: 4.199900 ms  DeleteObjects: 0.522100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/InteractionManager.cs: 3d39a44c0fb5e0f7a98e0773167e2456 -> f7ee23484825f87b1423d9be4f80a0ba
+  custom:scripting/monoscript/fileName/MenuNavigation.cs: d596e508264350c25a7b90b9f0fd2dbc -> b8fbcfe0a893e0bd04a4472ac1646ce4
+  custom:scripting/monoscript/fileName/EnemyMobile.cs: 194531124742efe55bf2e8b3591ac547 -> 
+  custom:scripting/monoscript/fileName/CompassMarker.cs: 42171a5fd56c93051b470a8637709b44 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/ToggleGameObjectButton.cs: 201ec8060e2239c3fa8e5e7e6499de6a -> a3622c219492ae252b6333e71de7affc
+  custom:scripting/monoscript/fileName/GameFlowManager.cs: 8610a8ac0d242eb02fa6f9c322b0def3 -> 44684940ab71ffe4906a2e24d4939925
+  custom:scripting/monoscript/fileName/JetpackCounter.cs: b560b301c956b1081ae40fcefd34f1a5 -> 
+  custom:scripting/monoscript/fileName/FillBarColorChange.cs: 9a7e77302f3378ac43410d8ff5e194fd -> 7cea0304ed484e8b8f78a26d807c01e4
+  custom:scripting/monoscript/fileName/EnemyTurret.cs: 223225f29317e2069622bc8d5685521e -> 
+  custom:scripting/monoscript/fileName/PrefabReplacerOnInstance.cs: 98b72ebfd778c30750a356299e89ebf6 -> 
+  custom:scripting/monoscript/fileName/SoundManager.cs: 840c753ea222748db3b6d6106ce94b8b -> 97b8b7f19e31a376baf624982cbfe12a
+  custom:scripting/monoscript/fileName/ZombieSpawnController.cs: 318f20a6040344c59ffd059960411d03 -> 
+  custom:scripting/monoscript/fileName/Objective.cs: 8f4a19c668923ae3652b3197e5a976c4 -> 
+  custom:scripting/monoscript/fileName/PositionBobbing.cs: 1f52ea4e66f3f6b582d70d59ad3116de -> 59ed2f66bd00a747c6c03b3f8ffecd93
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/PlayerInputHandler.cs: cb6dab834ee148ec50b07fcd8fee7e2b -> 81a90d73fc96c01662bd09f5b306d684
+  custom:scripting/monoscript/fileName/AudioManager.cs: 67ad2754f6df763a12b6cef7f8c22163 -> 7c9dfc4d52919fdf71782ad8753612c3
+  custom:scripting/monoscript/fileName/WeaponController.cs: 12aec4581d143fe1377f91abff66543f -> 41043314cec8a15523f25ac2215518f6
+  custom:scripting/monoscript/fileName/ActorsManager.cs: 0f63ebb2a18c6fa93391a56e50a8f17c -> 2242c9ae0a871474fe5dd0b53aa58ff1
+  custom:scripting/monoscript/fileName/PlayerWeaponsManager.cs: cf9e816deeab866757da25b0108fdd4e -> d8b951976b0f6bff0025fb079a530f3d
+  custom:scripting/monoscript/fileName/NotificationHUDManager.cs: ac2e39b01dfb6d788e24e0255dad1390 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/CompassElement.cs: 2f020bb29f915ef4fc2979cbdce969c6 -> 
+  custom:scripting/monoscript/fileName/LoadSceneButton.cs: b3a0f730a538cf186eabe36e37ac843c -> 74d07a51407420833e1174ed22d30086
+  custom:scripting/monoscript/fileName/DetectionModule.cs: fa004674b524369ac6a4232cf4534bcc -> 87401761f61a645532fe430a6267d667
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/IgnoreHitDetection.cs: 195ff07cfe534d6d06ba9969bf718163 -> aeec2b3acd70755c12f2092b60740a44
+  custom:scripting/monoscript/fileName/EnemyController.cs: 08c592dcc36aa25ce2bf515ff08e9d77 -> f2af60eb216fff3f7d82466a9f8d1a89
+  custom:scripting/monoscript/fileName/Damageable.cs: 1820d456c3dbdf6905abc36185a2aa74 -> 63fc525c15df99512f37cb845878bef2
+  custom:scripting/monoscript/fileName/MinMaxParameters.cs: f21998d2f765114e8d05282e7c4dae68 -> bcf3bf9a5c016bdf9e7846c3ae280c36
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/AmmoBox.cs: 1061acae5f49074feb1ffb349cddeb4f -> 76fb9cd85e3209270ad63f8af8dd19d6
+  custom:scripting/monoscript/fileName/PrefabReplacer.cs: 3f5ec1b153496baa0714fab26a46af6a -> 
+  custom:scripting/monoscript/fileName/NotificationToast.cs: 252cdecf400431c41c5294445c5a4129 -> d2f1b2fcd7d79605b8ec01be9f48a133
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/ObjectiveToast.cs: c976c6763182defec674348550074c49 -> 
+  custom:scripting/monoscript/fileName/InGameMenuManager.cs: 3ad32011e0286dcc17499567c3bdbb98 -> 08f64e86dde97c6d3c2153c5eee126f3
+  custom:scripting/monoscript/fileName/ProjectileBase.cs: c72f0134262d3e9e6314f50a0e533ea7 -> f70dd12b4929b15aeac4de0c13a6273c
+  custom:scripting/monoscript/fileName/Actor.cs: 0e6ed94006e2d4ef0b4cee54ba205bba -> eaf65be28828a00f5fe680804b51351b
+  custom:scripting/monoscript/fileName/ProjectileChargeParameters.cs: 2067d867f274f6dc712167953129f962 -> 
+  custom:scripting/monoscript/fileName/WeaponPickup.cs: 2ba0ec1b2453438fe7d08f2cf64a0c94 -> efdc82c87ed669f181f6ed7325221305
+  custom:scripting/monoscript/fileName/ShaderBuildStripping.cs: eda615587ce01f4cfb9c2e0ec81d735c -> 
+  custom:scripting/monoscript/fileName/UITableEditor.cs: d58aeaf59221e142ef079ef138c674f6 -> 
+  custom:scripting/monoscript/fileName/TimedSelfDestruct.cs: 5a484abedc1bf13963ae13c0e72f4a51 -> 23e59394ff7b3ee4d393e9e6f3208b74
+  custom:scripting/monoscript/fileName/Health.cs: f40a94ec4b90cc19e128d6816d96e7bb -> 28e583b7a53e0cddeda7f7ef2f7f9142
+  custom:scripting/monoscript/fileName/WeaponHUDManager.cs: af502c41ec760925c45fa0236679511d -> bc9b1a81eb71051782ee38f9a8de9bec
+  custom:scripting/monoscript/fileName/JetpackPickup.cs: 15e7caf309e991ecaa0b3c684f9d05aa -> 
+  custom:scripting/monoscript/fileName/Compass.cs: 5bc4cfb11d6160108dbce4f3f4aab855 -> 
+  custom:scripting/monoscript/fileName/FeedbackFlashHUD.cs: 6e222f89fc8449fe35a2dce38d26ea3d -> b4ceba92aedaf901af81d4e82d94981d
+  custom:scripting/monoscript/fileName/TakeScreenshot.cs: 11b4d07500c0ee676c1c18952487a301 -> 
+  custom:scripting/monoscript/fileName/WorldspaceHealthBar.cs: 97a45f14e2160ebf5ef57c23bb29c284 -> 9efed4cd11879aa7adeb6e0e6e119cda
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/UITable.cs: 75a31bae85e0fac197e719d97000c313 -> e89633625f80f146b61f06514bb550d2
+  custom:scripting/monoscript/fileName/ClickToMove.cs: d48ce37d18eff783114852ad687f9a60 -> da99a44a568b624a746542b62912f678
+  custom:scripting/monoscript/fileName/WeaponFuelCellHandler.cs: d581c0127d03fe4adb584c8c51d96abe -> 
+  custom:scripting/monoscript/fileName/AmmoPickup.cs: 325eca6c3913bde3ca85be2f35757a1b -> 6f642e4558a14856236a563cb5100729
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/DamageArea.cs: 66bd6f31d7b0dc0184eb521be8042565 -> bc9bf67b3be650378f8cc3a6b8528571
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/ConstantRotation.cs: b3b39499e35dedc2abe15916d5fb700a -> 1efed2866a59b899fcf6a23508566ad9
+  custom:scripting/monoscript/fileName/ObjectiveKillEnemies.cs: 6e13589f9c09950464a2bf9e0bc332b1 -> 
+  custom:scripting/monoscript/fileName/EnemyManager.cs: 9a695eeb9e74c04497c5c28dbd096822 -> 53c4c48b65a155318601d05e512c8e83
+  custom:scripting/monoscript/fileName/OverheatBehavior.cs: 0040d7b8b27f3198702cb46874fd5861 -> 
+  custom:scripting/monoscript/fileName/DebugUtility.cs: 9122e908a772e05ac66b0287e583d5a6 -> 29a4aa7edf07a19042eb212a9998b82a
+  custom:scripting/monoscript/fileName/Pickup.cs: cb8e30c6a2cc10574685895750125fad -> 460d98b6e94d3931fcebdbe7bbf20dfd
+  custom:scripting/monoscript/fileName/ObjectiveHUDManager.cs: b3a61469ddb118e1bb3bcba5335a79cd -> 
+  custom:scripting/monoscript/fileName/DisplayMessageManager.cs: 173a28feb7ba0f67a17b1abeba7b3843 -> 
+  custom:scripting/monoscript/fileName/Events.cs: 9ead128e76cbf423a1b6ab1740a934fd -> bba7362be9823c0eccdcfb9dea6c6cd9
+  custom:scripting/monoscript/fileName/PrefabReplacerEditor.cs: d4e4e9b4cf280eaedc28484d06e8dc0d -> 
+  custom:scripting/monoscript/fileName/FollowPlayer.cs: c81696252be2ee939e7ba27e4f17fdab -> e8e829e0ce2e70cf550430895b6f41a5
+  custom:scripting/monoscript/fileName/HealthPickup.cs: ddb01ff3f4e1ebe90eef7e632d46d791 -> 9042d95ce819a4a9e4a559acd030d0ae
+  custom:scripting/monoscript/fileName/Weapon.cs: d2c03d88643e955fa0e7245c8aa96513 -> 0b4d856b429b31aad65662a3c52c642a
+  custom:scripting/monoscript/fileName/PatrolPath.cs: b6580aaeb86fda48ac78cfed433a3e23 -> 
+  custom:scripting/monoscript/fileName/EventManager.cs: 6ccb07d41c4182e66e07db7e4822c8dd -> 24abca00bff0b07733a4b75ec06af1db
+  custom:scripting/monoscript/fileName/GameConstants.cs: ad57e0ae26bc13c4fdae18d37d76823a -> 52b24abfd2c67e5a9d27b00cde1d37e9
+  custom:scripting/monoscript/fileName/ProjectileStandard.cs: fa48ced37955b7789d0b6127573c6b17 -> cc84c983cf1328c9c0d3f33808ac148a
+  custom:scripting/monoscript/fileName/PlayerHealthBar.cs: d6c4cfd9270bca38cd2ecd95791f08cf -> 8658554faa8ede4f6d15605504d8b3f7
+  custom:scripting/monoscript/fileName/Throwable.cs: 7cb2768c6fc0c0465e3ab22d3e9054fa -> 92b0f30c90b03a1bf2d8ed4f1e41a93b
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/GlobalReferences.cs: 562fdbc4aab64ed75faf87fbd73315b6 -> fdf87283ec100375257e421750669917
+  custom:scripting/monoscript/fileName/ChargedWeaponEffectsHandler.cs: d6ca8a01dc3a016a5ff465119cff2461 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/TeleportPlayer.cs: 2e043cfe9f0456cd18d60d05679c6014 -> 
+  custom:scripting/monoscript/fileName/AudioUtility.cs: 8065decb8a765c31ab61a6e9be59b8f4 -> a382cb027ce3d4cea78789244619bfd6
+  custom:scripting/monoscript/fileName/StanceHUD.cs: 5b55ae27681bb941f1262926633e1761 -> 
+  custom:scripting/monoscript/fileName/Bullet.cs: 48ff13ede6c310cc0acf4a30e818a1de -> a4f5918e799041ba1f6608f13912eb8b
+  custom:scripting/monoscript/fileName/ObjectiveManager.cs: fdfabed5a1656aa3971c6beae548682f -> 
+  custom:scripting/monoscript/fileName/FramerateCounter.cs: 4f5b95f85497aaeaf4678e907541ed42 -> 
+  custom:scripting/monoscript/fileName/EnemyCounter.cs: 235e5ab287b02066a396e43a7c4bfb2b -> 
+  custom:scripting/monoscript/fileName/ChargedProjectileEffectsHandler.cs: ed6a8a7bb23ef4d66ac882ec00fac8d9 -> 
+  custom:scripting/monoscript/fileName/PlayerCharacterController.cs: 51c7b29483d0c929123830d1d60fea47 -> bbf1346396d644ab074e73766fcc4d8b
+  custom:scripting/monoscript/fileName/WeaponManager.cs: 5daf74d241a34cb65defd3f704a95a56 -> 5de601ca1f1b7d25a6f53522cedf8a7b
+  custom:scripting/monoscript/fileName/AmmoCounter.cs: 34bbab7b368b6a3b7d24811bdf09bedc -> 158d784f7329b4e6b7ca96b36d02382c
+  custom:scripting/monoscript/fileName/ObjectiveReachPoint.cs: 49b84cf246a1a2447af653a12fbb5a45 -> 
+  custom:scripting/monoscript/fileName/PlayerMovement.cs: 5c1499cfc43e291157e191fb54bb34f9 -> 42480eed24e61f9d7e7e895933644f96
+  custom:scripting/monoscript/fileName/Jetpack.cs: 2374c670d198f84030c0bf3b72478eab -> 
+  custom:scripting/monoscript/fileName/IgnoreHeatMap.cs: 60fa0cb42c1702b6e71ecc0fd26646f9 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/CrosshairManager.cs: 1bfc80e2870634e1c6e385e7c51b8acd -> 35a8fc10eaa782d05d5cd3afdd8f309d
+  custom:scripting/monoscript/fileName/MouseMovement.cs: 13ae892e53f4752ee764ff28c34b20eb -> 56175628aabd7dbf6425116fe8458d01
+  custom:scripting/monoscript/fileName/DisplayMessage.cs: 3b7a28130ff1fd40aa46cbf4186f5c01 -> 
+  custom:scripting/monoscript/fileName/Destructable.cs: d7506144462a1b2fb95b88ecd5191ac7 -> d45a8cb5a7ff19141c8c9971c2089360
+  custom:scripting/monoscript/fileName/NavigationModule.cs: b286522743efdf9fe11f717bb36f4848 -> 12ba844882996c01aa3ed37402a589af
+  custom:scripting/monoscript/fileName/ObjectivePickupItem.cs: 15ba57f6a3e3047d3be339c7a59b77b2 -> 
+  custom:scripting/monoscript/fileName/HUDManager.cs: f5831b521d61c2aaf8f2f27f744cc7f6 -> 66bb2e9ca53138072c874b0c811bdc8a
+========================================================================
+Received Import Request.
+  Time since last request: 106072.581454 seconds.
+  path: Assets/Prefabs/Items/Pickup_Rifle_1.prefab
+  artifactKey: Guid(e9db2fd16119acb419382cfbc7d3acb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Pickup_Rifle_1.prefab using Guid(e9db2fd16119acb419382cfbc7d3acb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Refreshing native plugins compatible for Editor in 3.31 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+ -> (artifact id: '189e3dc5e8b4d45fb54682d8ad0022cd') in 0.188354 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 139
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
